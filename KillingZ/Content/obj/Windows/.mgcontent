@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Fonts/Arial15.spritefont</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Fonts/Arial13.spritefont</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Fonts/Arial18.spritefont</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/ak47_reload.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/ak47_shot.wav</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/hard_shot.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/m4a1_shot.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/rifle_reload.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/rifle_shot.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/shotgun_fill.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/shotgun_fillo.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/shotgun_shot.mp3</File>
+    <File>C:/Users/jan.kolcava/Disk Google/Programovani/MonoGame/KillingZ/KillingZ/Content/Sounds/small_pistol_shot.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
